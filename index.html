@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fetch Example</title>
+</head>
+<body>
+
+<div id="result"></div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        // Your JavaScript code here
+
+        var myHeaders = new Headers();
+        myHeaders.append("Content-Type", "application/json");
+
+        var raw = JSON.stringify({
+            "phoneNumber": "09922937565",
+            "password": "12345aass"
+        });
+
+        var requestOptions = {
+    method: 'POST',
+    headers: myHeaders,
+    body: raw,
+    redirect: 'follow',
+    credentials: 'include'
+};
+
+        fetch("http://localhost:5179/Auth/login", requestOptions)
+            .then(response => response.json()) // Use response.json() instead of response.text()
+            .then(result => {
+                // Update the 'result' div with the fetched result
+                document.getElementById('result').innerText = JSON.stringify(result, null, 2);
+            })
+            .catch(error => console.log('error', error));
+    });
+</script>
+
+</body>
+</html>

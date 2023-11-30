@@ -1,0 +1,348 @@
+D:/Project/DotNet/Project_Azure/dotNet-G1/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/Project/DotNet/Project_Azure/dotNet-G1/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/Project/DotNet/Project_Azure/dotNet-G1/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/Project/DotNet/Project_Azure/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/Project/DotNet/Project_Azure/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/Project/DotNet/Project_Azure/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/Project/DotNet/Project_Azure/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/Project/DotNet/Project_Azure/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/Project/DotNet/Project_Azure/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/Project/DotNet/Project_Azure/dotNet-G1/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/Project/DotNet/Project_Azure/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/Project/DotNet/Project_Azure/dotNet-G1/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+C:/Users/acer/Desktop/session15/dotNet-G1/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+C:/Users/acer/Desktop/session15/dotNet-G1/shop.Core/bin/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/session15/dotNet-G1/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/session15/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+C:/Users/acer/Desktop/session15/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/acer/Desktop/session15/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+C:/Users/acer/Desktop/session15/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+C:/Users/acer/Desktop/session15/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+C:/Users/acer/Desktop/session15/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/session15/dotNet-G1/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+C:/Users/acer/Desktop/session15/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/session15/dotNet-G1/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+C:/Users/acer/Desktop/session15 The End/dotNet-G1/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+C:/Users/acer/Desktop/session15 The End/dotNet-G1/shop.Core/bin/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/session15 The End/dotNet-G1/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/session15 The End/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+C:/Users/acer/Desktop/session15 The End/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/acer/Desktop/session15 The End/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+C:/Users/acer/Desktop/session15 The End/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+C:/Users/acer/Desktop/session15 The End/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+C:/Users/acer/Desktop/session15 The End/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/session15 The End/dotNet-G1/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+C:/Users/acer/Desktop/session15 The End/dotNet-G1/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/session15 The End/dotNet-G1/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/programming/Eshop-WebApi/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/programming/Eshop-WebApi/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/programming/Eshop-WebApi/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/programming/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/programming/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/programming/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/programming/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/programming/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/programming/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/programming/Eshop-WebApi/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/programming/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/programming/Eshop-WebApi/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/programming/Asp.Net Core7 Web Api (حضوری)/Eshop-WebApi/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/programming/Asp.Net Core7 Web Api (حضوری)/Eshop-WebApi/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/programming/Asp.Net Core7 Web Api (حضوری)/Eshop-WebApi/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/programming/Asp.Net Core7 Web Api (حضوری)/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/programming/Asp.Net Core7 Web Api (حضوری)/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/programming/Asp.Net Core7 Web Api (حضوری)/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/programming/Asp.Net Core7 Web Api (حضوری)/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/programming/Asp.Net Core7 Web Api (حضوری)/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/programming/Asp.Net Core7 Web Api (حضوری)/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/programming/Asp.Net Core7 Web Api (حضوری)/Eshop-WebApi/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/programming/Asp.Net Core7 Web Api (حضوری)/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/programming/Asp.Net Core7 Web Api (حضوری)/Eshop-WebApi/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+C:/Users/acer/Desktop/Eshop-WebApi/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+C:/Users/acer/Desktop/Eshop-WebApi/shop.Core/bin/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/Eshop-WebApi/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+C:/Users/acer/Desktop/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/acer/Desktop/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+C:/Users/acer/Desktop/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+C:/Users/acer/Desktop/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+C:/Users/acer/Desktop/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/Eshop-WebApi/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+C:/Users/acer/Desktop/Eshop-WebApi/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/Eshop-WebApi/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/PouriaRahnama/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/PouriaRahnama/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/PouriaRahnama/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/PouriaRahnama/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/PouriaRahnama/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/PouriaRahnama/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/PouriaRahnama/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/PouriaRahnama/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/PouriaRahnama/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/PouriaRahnama/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/PouriaRahnama/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-8/PouriaRahnama/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-10/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-10/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-10/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-10/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-10/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-10/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-10/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-10/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-10/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-10/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-10/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-10/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-11/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-11/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-11/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-11/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-11/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-11/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-11/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-11/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-11/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-11/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-11/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-11/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-12/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-12/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-12/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-12/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-12/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-12/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-12/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-12/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-12/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-12/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-12/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-12/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-13/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-13/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-13/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-13/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-13/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-13/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-13/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-13/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-13/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-13/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-13/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-13/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-14/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-14/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-14/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-14/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-14/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-14/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-14/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-14/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-14/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-14/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-14/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-14/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-15/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-15/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-15/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-15/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-15/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-15/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-15/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-15/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-15/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-15/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-15/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-15/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-16/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-16/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-16/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-16/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-16/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-16/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-16/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-16/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-16/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-16/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-16/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-16/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-17/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-17/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-17/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-17/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-17/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-17/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-17/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-17/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-17/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-17/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-17/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-17/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-18/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-18/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-18/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-18/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-18/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-18/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-18/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-18/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-18/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-18/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-18/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-18/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-19/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-19/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-19/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-19/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-19/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-19/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-19/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-19/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-19/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-19/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-19/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-19/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-20/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-20/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-20/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-20/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-20/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-20/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-20/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-20/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-20/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-20/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-20/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-20/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-21/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-21/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-21/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-21/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-21/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-21/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-21/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-21/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-21/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-21/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-21/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-21/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-22/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-22/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-22/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-22/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-22/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-22/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-22/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-22/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-22/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-22/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-22/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-22/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-23/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-23/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-23/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-23/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-23/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-23/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-23/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-23/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-23/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-23/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-23/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+D:/انتقالی/Project Eshop-WebApi/Eshop-WebApi-23/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+C:/Users/acer/Desktop/EShop/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+C:/Users/acer/Desktop/EShop/shop.Core/bin/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/EShop/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/EShop/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+C:/Users/acer/Desktop/EShop/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/acer/Desktop/EShop/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+C:/Users/acer/Desktop/EShop/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+C:/Users/acer/Desktop/EShop/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+C:/Users/acer/Desktop/EShop/shop.Core/obj/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/EShop/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+C:/Users/acer/Desktop/EShop/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/EShop/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+C:/Users/acer/Desktop/shop/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+C:/Users/acer/Desktop/shop/shop.Core/bin/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/shop/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/shop/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+C:/Users/acer/Desktop/shop/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/acer/Desktop/shop/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+C:/Users/acer/Desktop/shop/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+C:/Users/acer/Desktop/shop/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+C:/Users/acer/Desktop/shop/shop.Core/obj/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/shop/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+C:/Users/acer/Desktop/shop/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/shop/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+C:/Users/acer/Desktop/New folder/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+C:/Users/acer/Desktop/New folder/shop.Core/bin/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/New folder/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/New folder/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+C:/Users/acer/Desktop/New folder/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/acer/Desktop/New folder/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+C:/Users/acer/Desktop/New folder/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+C:/Users/acer/Desktop/New folder/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+C:/Users/acer/Desktop/New folder/shop.Core/obj/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/New folder/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+C:/Users/acer/Desktop/New folder/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/New folder/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+C:/Users/acer/Desktop/project/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+C:/Users/acer/Desktop/project/shop.Core/bin/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/project/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/project/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+C:/Users/acer/Desktop/project/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/acer/Desktop/project/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+C:/Users/acer/Desktop/project/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+C:/Users/acer/Desktop/project/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+C:/Users/acer/Desktop/project/shop.Core/obj/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/project/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+C:/Users/acer/Desktop/project/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/project/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+C:/Users/acer/Desktop/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+C:/Users/acer/Desktop/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/Eshop-Api/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+C:/Users/acer/Desktop/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/acer/Desktop/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+C:/Users/acer/Desktop/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+C:/Users/acer/Desktop/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+C:/Users/acer/Desktop/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/Eshop-Api/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+C:/Users/acer/Desktop/Eshop-Api/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/Eshop-Api/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+C:/Users/acer/Desktop/shop-webapi-git/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+C:/Users/acer/Desktop/shop-webapi-git/shop.Core/bin/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/shop-webapi-git/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/shop-webapi-git/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+C:/Users/acer/Desktop/shop-webapi-git/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/acer/Desktop/shop-webapi-git/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+C:/Users/acer/Desktop/shop-webapi-git/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+C:/Users/acer/Desktop/shop-webapi-git/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+C:/Users/acer/Desktop/shop-webapi-git/shop.Core/obj/Debug/net7.0/shop.Core.dll
+C:/Users/acer/Desktop/shop-webapi-git/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+C:/Users/acer/Desktop/shop-webapi-git/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+C:/Users/acer/Desktop/shop-webapi-git/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll
+/home/test/Downloads/Eshop-Api-master/shop.Core/bin/Debug/net7.0/shop.Core.deps.json
+/home/test/Downloads/Eshop-Api-master/shop.Core/bin/Debug/net7.0/shop.Core.dll
+/home/test/Downloads/Eshop-Api-master/shop.Core/bin/Debug/net7.0/shop.Core.pdb
+/home/test/Downloads/Eshop-Api-master/shop.Core/obj/Debug/net7.0/shop.Core.csproj.AssemblyReference.cache
+/home/test/Downloads/Eshop-Api-master/shop.Core/obj/Debug/net7.0/shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/test/Downloads/Eshop-Api-master/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfoInputs.cache
+/home/test/Downloads/Eshop-Api-master/shop.Core/obj/Debug/net7.0/shop.Core.AssemblyInfo.cs
+/home/test/Downloads/Eshop-Api-master/shop.Core/obj/Debug/net7.0/shop.Core.csproj.CoreCompileInputs.cache
+/home/test/Downloads/Eshop-Api-master/shop.Core/obj/Debug/net7.0/shop.Core.dll
+/home/test/Downloads/Eshop-Api-master/shop.Core/obj/Debug/net7.0/refint/shop.Core.dll
+/home/test/Downloads/Eshop-Api-master/shop.Core/obj/Debug/net7.0/shop.Core.pdb
+/home/test/Downloads/Eshop-Api-master/shop.Core/obj/Debug/net7.0/ref/shop.Core.dll

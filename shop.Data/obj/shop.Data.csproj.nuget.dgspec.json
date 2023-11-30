@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/test/Downloads/Eshop-Api-master/shop.Data/shop.Data.csproj": {}
+  },
+  "projects": {
+    "/home/test/Downloads/Eshop-Api-master/shop.Core/shop.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/test/Downloads/Eshop-Api-master/shop.Core/shop.Core.csproj",
+        "projectName": "shop.Core",
+        "projectPath": "/home/test/Downloads/Eshop-Api-master/shop.Core/shop.Core.csproj",
+        "packagesPath": "/home/test/.nuget/packages/",
+        "outputPath": "/home/test/Downloads/Eshop-Api-master/shop.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/test/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Caching.Redis": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0-preview.3.23174.8, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0-preview.3.23174.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/229/sdk/7.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/test/Downloads/Eshop-Api-master/shop.Data/shop.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/test/Downloads/Eshop-Api-master/shop.Data/shop.Data.csproj",
+        "projectName": "shop.Data",
+        "projectPath": "/home/test/Downloads/Eshop-Api-master/shop.Data/shop.Data.csproj",
+        "packagesPath": "/home/test/.nuget/packages/",
+        "outputPath": "/home/test/Downloads/Eshop-Api-master/shop.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/test/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/test/Downloads/Eshop-Api-master/shop.Core/shop.Core.csproj": {
+                "projectPath": "/home/test/Downloads/Eshop-Api-master/shop.Core/shop.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0-preview.3.23174.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0-preview.3.23174.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0-preview.3.23174.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0-preview.3.23174.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/229/sdk/7.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
